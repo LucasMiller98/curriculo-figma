@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body {
+    background-color: #74757581;
+}
+#container {
+    position: absolute;
+    width: 745px;
+    padding-left: 15px;
+    padding-bottom: 428px;
+    height: 686px;
+    left: 550px;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 152px;
+    margin-bottom: 162px;
+    top: 98px;
+}
+h3 {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: #19304f;
+}
+#cabecalho {
+    margin: auto;
+    width: 700px;
+    background-color: #ffffff;
+    position: relative;
+    left: 12px;
+}
+#cabecalho #front-end {
+    font-size: 14px;
+    margin: auto;
+    font-size: 'Roboto', sans-serif;
+}
+#cabecalho .developer {
+    position: relative;
+    left: 100px;
+    top: 68px;
+}
+#cabecalho #lucas {
+    margin-bottom: 2px;
+}
+#cabecalho figure img {
+    border-radius: 50%;
+    width: 92px;
+    position: relative;
+    right: 60px;
+    bottom: 22px;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+section #perfil {
+    margin-bottom: 10px;
+}
+section h3 {
+    margin-top: 36px;
+}
+section h3 {
+    margin-top: 36px;
+}
+main p {
+    font-size: 12px;
+    font-family: 'Roboto', sans-seft;
+    line-height: 18px;
+    color: #222222;
+}
+main {
+    margin: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-right: 300px;
+    padding-top: 11px;
+    position: relative;
+    bottom: 40px;
+    line-height: 18px;
+    margin-left: 21px;
+    margin-bottom: 1px;
+    margin-right: 11px;
+    left: 15px;
+}
+.contato {
+    width: 35px;
+}
+section #entre-em-contato {
+    margin-bottom: 11px;
+}
+.fab {
+    font-size: 20px;
+    margin: 7;
+    color: #ffffff;
+}
+/* .fa-linkedin-in {
+    position: absolute;
+    left: 74.28%;
+    right: 22.43%;
+    top: 23.68%;
+    bottom: 74.26%;
+}
+.fa-github {
+    position: absolute;
+    left: 79.01%;
+    right: 17.7%;
+    top: 23.94%;
+    bottom: 74%;
+    background-color: #ffffff;
+    mix-blend-mode: normal;
+}
+.fa-instagram {
+    position: absolute;
+    left: 83.74%;
+    right: 12.96%;
+    top: 23.94%;
+    bottom: 74%;
+} */
+li .projetos {
+    text-decoration: none;
+    color: #000000;
+}
+li .projetos:hover {
+    text-decoration: underline;
+    color: #19304f;
+}
+section #meus-projetos {
+    width: 400px;
+    margin: auto;
+}
+#informacoes {
+    position: absolute;
+    width: 177px;
+    height: 707px;
+    left: 387px;
+    bottom: -212px;
+    background-color: rgba(16, 46, 51, 0.774);
+    padding-top: 140px;
+    padding-left: 25px;
+    padding-bottom: 267.1px;
+    padding-right: 25px;
+    margin-left: 95px;
+}
+#informacoes #title-conhecimentos {
+    padding-bottom: 300px;
+}
+#informacoes h3 {
+    color: #ffffff;
+}
+#informacoes p {
+    color: #ffffff;
+}
+section .conhecimentos {
+    border-bottom: 4px solid #ffffff;
+    margin-right: 41px;
+    margin-left: 11px;
+    position: relative;
+    bottom: 309px;
+}
